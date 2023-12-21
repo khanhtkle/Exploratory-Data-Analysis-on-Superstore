@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-    <img width=85% src="../IMG/1.png">
+    <img width=85% src="./IMG/1.png">
   </picture>
 </div>
 
@@ -31,7 +31,7 @@ View the original publication of the dataset [HERE](https://www.kaggle.com/akash
 
 <div align="center">
   <picture>
-    <img width="27%" src="../IMG/e1.png")>
+    <img width="27%" src="./IMG/e1.png")>
   </picture>	
 </div>
 
