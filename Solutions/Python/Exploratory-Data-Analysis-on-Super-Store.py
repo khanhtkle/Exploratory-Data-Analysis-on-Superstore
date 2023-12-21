@@ -1,4 +1,4 @@
-# Analyzing Super Store: Uncovering Insights through Data Exploration
+# Analyzing Superstore: Uncovering Insights through Data Exploration
 
 # Introduction
  
