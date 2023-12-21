@@ -2,9 +2,9 @@
 
 # Introduction
  
-# Super Store is a little shop in Canada that sells furniture, office supplies, and technology products to regular consumers, businesses, and home offices. The information we have includes details about sales, profits, and the location of each order. 
+# Superstore is a little shop in Canada that sells furniture, office supplies, and technology products to regular consumers, businesses, and home offices. The information we have includes details about sales, profits, and the location of each order. 
 
-# Our goal is to find out where Super Store can improve and identify chances for the business to grow.
+# Our goal is to find out where Superstore can improve and identify chances for the business to grow.
  
 # Business Questions
 
@@ -18,7 +18,7 @@
  
 # Who is Reading this Analysis?
 
-# - We assume Super Store is a family business with 1 or 2 owners really into it. These owners might not be great at reading charts or complex stats, so we will keep our analysis simple.
+# - We assume Superstore is a family business with 1 or 2 owners really into it. These owners might not be great at reading charts or complex stats, so we will keep our analysis simple.
 
 # - Our goal is to give the owners easy-to-understand info to help them make smart choices for boosting business money. We will focus on finding where things can get better and suggest ideas and ways to sell more.
 
@@ -217,7 +217,7 @@ plt.show()
 
 # - Copiers generate the highest profit, followed by Phones, Accessories, Papers, and Binders. Crafting an effective marketing strategy should prioritize these products.
  
-# - Conversely, Machines, Fasteners, Supplies, Bookcases, and Tables exhibit marginal to negative margins. Considerations for the Super Store could involve discontinuing these products, adjusting sale prices, optimizing profit margins, or negotiating lower costs with suppliers.
+# - Conversely, Machines, Fasteners, Supplies, Bookcases, and Tables exhibit marginal to negative margins. Considerations for the Superstore could involve discontinuing these products, adjusting sale prices, optimizing profit margins, or negotiating lower costs with suppliers.
 
 # 3. Which is the Top Selling Sub-Category?
 
@@ -236,7 +236,7 @@ plt.show()
 
 # Key findings include:
 
-# - It's crucial for Super Store to maintain consistently well-stocked inventory for the top-selling sub-categories like Binders, Paper, Furnishings, and Phones.
+# - It's crucial for Superstore to maintain consistently well-stocked inventory for the top-selling sub-categories like Binders, Paper, Furnishings, and Phones.
 
 # - Despite being the most profitable, Copiers have a lower sales volume, totaling only 234. Given their higher price and the fact that they are typically utilized for several years, it's reasonable that they have a lower sales frequency compared to other products.
  
