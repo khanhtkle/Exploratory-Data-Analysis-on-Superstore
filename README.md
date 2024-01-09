@@ -21,7 +21,7 @@ Superstore is a small retail business located in the Canada. Specializing in Fur
 
 Superstore maintains a comprehensive dataset covering sales, profits, and customer locations. This wealth of information serves as a valuable tool, shedding light on product preferences, sales trends, and geographical insights.
 
-This case study delves into Superstore's sales data, aiming to uncover patterns of success and areas for growth. By closely examining their data, the goal is to extract insights that can inform strategic decisions and contribute to the store's ongoing success.
+This case study delves into Superstore's sales data, aiming to identidy top-selling and profitable categories, sub-categories, customer segments, shipping modes, regions, and cities for strategic decision-making and sustained growth.
 
 View the original publication of the dataset [HERE](https://www.kaggle.com/akashkothare/tsf-datasets).
 
