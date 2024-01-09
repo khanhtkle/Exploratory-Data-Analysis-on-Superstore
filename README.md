@@ -17,11 +17,11 @@
 
 ## :briefcase: Business Case
 
-Super Store is a small retail business located in the Canada. Specializing in Furniture, Office Supplies, and Technology products, they cater to a diverse customer base - regular consumers, businesses, and home offices alike.
+Superstore is a small retail business located in the Canada. Specializing in Furniture, Office Supplies, and Technology products, they cater to a diverse customer base - regular consumers, businesses, and home offices alike.
 
-Super Store maintains a comprehensive dataset covering sales, profits, and customer locations. This wealth of information serves as a valuable tool, shedding light on product preferences, sales trends, and geographical insights.
+Superstore maintains a comprehensive dataset covering sales, profits, and customer locations. This wealth of information serves as a valuable tool, shedding light on product preferences, sales trends, and geographical insights.
 
-This case study delves into Super Store's sales data, aiming to uncover patterns of success and areas for growth. By closely examining their data, the goal is to extract insights that can inform strategic decisions and contribute to the store's ongoing success.
+This case study delves into Superstore's sales data, aiming to uncover patterns of success and areas for growth. By closely examining their data, the goal is to extract insights that can inform strategic decisions and contribute to the store's ongoing success.
 
 View the original publication of the dataset [HERE](https://www.kaggle.com/akashkothare/tsf-datasets).
 
