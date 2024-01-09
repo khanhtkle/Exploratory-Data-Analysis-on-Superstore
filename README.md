@@ -1,4 +1,4 @@
-# :european_post_office: Exploratory Data Analysis on Super Store
+# :european_post_office: Exploratory Data Analysis on Superstore
 
 <div align="center">
   <picture>
